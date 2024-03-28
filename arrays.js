@@ -5,11 +5,11 @@ array = [10, 1, 13, 17];
 //Dica: usar estrutura de repetição
 
 // soma = 0;
-// for (var i = 0; i <= 3; i++) {
-//   console.log("i: ", i);
-//   console.log("array de i: ", array[i]);
-//   soma = soma + array[i];
-// }
+for (var i = 0; i <= 3; i++) {
+  console.log("i: ", i);
+  console.log("array de i: ", array[i]);
+  soma = soma + array[i];
+}
 
 // console.log("soma: " + soma);
 
